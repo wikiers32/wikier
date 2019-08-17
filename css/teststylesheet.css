@@ -1,0 +1,25 @@
+
+
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+img{
+	width: auto;
+	max-width: 180px;
+	float: right;
+	margin-left: 40px
+
+}
+
+.problems {
+	overflow: hidden;
+}
+
+.choiceslist {
+	list-style-type: upper-alpha;
+}
